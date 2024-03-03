@@ -2,6 +2,6 @@ package origin
 
 import "fmt"
 
-func originalFunction() {
+func OriginalFunction() {
 	fmt.Println("this is an original function")
 }
